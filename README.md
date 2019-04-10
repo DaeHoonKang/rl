@@ -5,3 +5,5 @@
  * Action Space 크기가 큰 게임 AI 개발(아타리 게임은 이미 참고할 샘플 소스들이 많음)
  * 여러 성향을 가진 게임 AI 개발(무조건 사람보다 잘하는 AI가 과연 좋은 게임 AI인가)
 
+## 참고
+[Policy Gradient](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
