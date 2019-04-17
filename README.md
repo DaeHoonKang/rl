@@ -6,4 +6,4 @@
  * 게임 내용이 업데이트되어도 영향을 덜 받는 AI
 
 ## 참고
-[강화학습] (https://github.com/DaeHoonKang/rl/wiki)
+[강화학습] (https://github.com/DaeHoonKang/rl/wiki/Reference)
